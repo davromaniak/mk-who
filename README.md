@@ -12,6 +12,10 @@ Quick and dirty Chrome extension that replaces all occurences of the Milton Keyn
 - MK
 - Milton Keynes
 
+## Install
+
+[![Image of Chrome Store Badge](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/mk-who/lpginpdiokdlcdfinehdkbjcaphddclm)
+
 ## Contribute
 
 Do not hesitate to contribute, by the way, do not propose any nickname containing bad words, this extension is for fun/trolling, not for insulting other people.
