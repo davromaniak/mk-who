@@ -12,6 +12,10 @@ Quick and dirty Chrome extension that replaces all occurences of the Milton Keyn
 - MK
 - Milton Keynes
 
+## Contribute
+
+Do not hesitate to contribute, by the way, do not propose any nickname containing bad words, this extension is for fun/trolling, not for insulting other people.
+
 ## Disclamer
 
 This application is not affiliated with the [AFC Wimbledon](https://www.afcwimbledon.co.uk/) nor [The Dons Trust](http://thedonstrust.org/).
